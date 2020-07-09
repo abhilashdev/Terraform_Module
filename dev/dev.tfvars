@@ -1,4 +1,4 @@
-aws_access_key = "AKIAZZX4B4MTG5OPVXMC"
+aws_access_key = "AAKIAZZX4B4MTG5OPVXMCCX"
 aws_secret_key = "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"
 aws_region = "us-east-1"
 vpc_cidr = "10.1.0.0/16"
